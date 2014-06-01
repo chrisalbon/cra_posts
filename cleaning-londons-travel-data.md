@@ -246,7 +246,7 @@ Finally, we attach (bind) the column to the dataset
 
 We are left with is nice and clean dataset, with real dates attached to the observations, short informative variable names, and correctly formatted values.
 
-If you are interested in trying this out for yourself, the full R code for this post is avaliable on Github.
+If you are interested in trying this out for yourself, the [full R code for this post](https://github.com/chrisalbon/code_r/blob/master/cleaning-data-example.r) is avaliable on Github.
 
 ### Note: What we didn't do
 

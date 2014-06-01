@@ -7,13 +7,13 @@
 
 **Short version:** I use data for social good. I also write about it.
 
-**Longer version:** I am the Director of Data Projects at [Ushahidi](http://www.ushahidi.com), leading our work around the effective use of crisis data. Prior to Ushahidi, I was Director of the Governance Project at [FrontlineSMS](http://www.frontlinesms.com). Previously, I earned a Ph.D. in Political Science from the University of California, Davis researching the impact of civil wars on health care systems.
+**Longer version:** I am the Director of Data Projects at [Ushahidi](http://www.ushahidi.com), leading our work around the use of data in natural and man-made crises. Prior to Ushahidi, I was Director of the Governance Project at [FrontlineSMS](http://www.frontlinesms.com). Previously, I earned a Ph.D. in Political Science from the University of California, Davis researching the quantitative impact of civil wars on health care systems.
 
-I write about liberation data and data science for social good at [ChrisRAlbon.com](http://chrisralbon.com) and data policy at [Daily Dot](http://dailydot.com). In 2008, I founded [Conflict Health](http://conflicthealth.com), a blog on the defense of health and health workers in armed conflict and political violence. I also wrote for the [United States Naval Institute Blog](http://blog.usni.org), TheAtlantic.com, ForeignPolicy.com, [UN Dispatch](http://undispatch.com), and elsewhere.
+I write about liberation data and data science for social good at [ChrisRAlbon.com](http://chrisralbon.com). In 2008, I founded [Conflict Health](http://conflicthealth.com), a blog on the defense of health and health workers in armed conflict and political violence. I also wrote for the [Daily Dot](http://dailydot.com), [United States Naval Institute Blog](http://blog.usni.org), TheAtlantic.com, ForeignPolicy.com, [UN Dispatch](http://undispatch.com), and elsewhere.
 
 I earned a B.A. from the University of Miami, where I triple majored in political science, international studies, and religious studies.
 
-I code in [R](http://r-project.org) and write in [Markdown](http://daringfireball.net/projects/markdown/).
+I code in [R](http://r-project.org) and [Python](http://python.org/), and write in [Markdown](http://daringfireball.net/projects/markdown/).
 
 **Want to talk? Contact Me**
 
@@ -44,7 +44,7 @@ I code in [R](http://r-project.org) and write in [Markdown](http://daringfirebal
 	- A blog and book-writing project on the use of data for social good.
 - Project Director, [FrontlineSMS](http://www.frontlinesms.com), 2012 - 2013
 	- Led FrontlineSMS's Governance Project, an effort improve the transparency and accountability of governments through mobile technology
-- Contributor, [Daily Dot](http://dailydot.com), 2012 - Present
+- Contributor, [Daily Dot](http://dailydot.com), 2012 - 2013
 	- Write opinion pieces on the politics of data and the internet
 - Contributor, [United Nations Dispatch](http://undispatch.com), 2011 - 2013
 	- Write news, opinion, and analysis on global affairs, particularly relating to health during conflict, global health politics, and the role of social media

@@ -3,7 +3,7 @@
 - ChrisAlbon
 - 2013/10/4
 - Data
-- Published
+- draft
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut erat vitae mi auctor tristique sed ac risus. Cras sodales vehicula velit, ac condimentum orci volutpat in. Cras nec mi cursus, congue enim et, euismod ante. Nulla quam sem, placerat non gravida eu, pharetra ut arcu. In consectetur purus nec arcu laoreet vestibulum. Curabitur ligula ligula, fermentum adipiscing neque non, vulputate dapibus tellus. Etiam quis turpis vel elit semper blandit sit amet a orci. Suspendisse malesuada sem ipsum. Sed aliquet, dolor in pharetra aliquet, ante nibh faucibus purus, ac accumsan diam mi vulputate ante. Quisque luctus diam id mauris dignissim imperdiet. Donec in nisl libero.
 
